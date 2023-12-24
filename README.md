@@ -94,4 +94,10 @@
 
 ###
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vaidehijadhav&" alt="vaidehijadhav" /></p>
+<div align="left">
+  <img src="https://streak-stats.demolab.com?user=vaidehijadhav&locale=en&mode=daily&theme=nightowl&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+</div>
+
+###
+
+###
