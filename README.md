@@ -91,7 +91,10 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
 
-  <img src="https://streak-stats.demolab.com?user=vaidehijadhav&locale=en&mode=daily&theme=nightowl&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <div align="right">
+    <img src="https://streak-stats.demolab.com?user=vaidehijadhav&locale=en&mode=daily&theme=nightowl&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  </div>
+
 </div>
 
 ###
