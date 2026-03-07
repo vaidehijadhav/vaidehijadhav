@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vaidehi Jadhav</h1>
-<h3 align="center">I'm a Web Developer👩‍💻</h3>
+<h3 align="center">I'm a Developer👩‍💻</h3>
 
-- 🌱 I’m currently learning **Backend Technologies**
+- 🌱 I’m learning .NET along with cloud technology**
 
 - 🤝 I’m looking for help with **frontend projects**
 
